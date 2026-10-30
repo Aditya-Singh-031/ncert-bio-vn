@@ -1,0 +1,34 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 75, in script call
+    call run_quiz("q01")
+  File "game/script.rpy", line 49, in script
+    $ q = QUIZ[qid]
+  File "game/script.rpy", line 49, in <module>
+    $ q = QUIZ[qid]
+          ~~~~^^^^^
+KeyError: 'q01'
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 75, in script call
+    call run_quiz("q01")
+  File "game/script.rpy", line 49, in script
+    $ q = QUIZ[qid]
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/script.rpy", line 49, in <module>
+    $ q = QUIZ[qid]
+          ~~~~^^^^^
+KeyError: 'q01'
+
+Windows-11-10.0.26300-SP0 AMD64
+Ren'Py 8.5.3.26051504
+Cell: The Unit of Life (Demo) 1.0
+Fri Oct 30 15:12:45 2026

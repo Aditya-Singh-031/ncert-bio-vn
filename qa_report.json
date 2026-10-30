@@ -1,0 +1,112 @@
+[
+ {
+  "check": "schema+evidence+MCQ rules",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s01 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s01 audio exists+duration",
+  "pass": true,
+  "detail": "9.600000s"
+ },
+ {
+  "check": "s01 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s02 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s02 audio exists+duration",
+  "pass": true,
+  "detail": "15.800023s"
+ },
+ {
+  "check": "s02 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s03 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s03 audio exists+duration",
+  "pass": true,
+  "detail": "13.400000s"
+ },
+ {
+  "check": "s03 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s04 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s04 audio exists+duration",
+  "pass": true,
+  "detail": "13.000000s"
+ },
+ {
+  "check": "s04 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s05 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s05 audio exists+duration",
+  "pass": true,
+  "detail": "15.000000s"
+ },
+ {
+  "check": "s05 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s06 image 1920x1080",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "s06 audio exists+duration",
+  "pass": true,
+  "detail": "11.500023s"
+ },
+ {
+  "check": "s06 labels rendered from approved list",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "video vp9/yuv420p/1080p",
+  "pass": true,
+  "detail": "vp9,1920,1080,yuv420p"
+ },
+ {
+  "check": "every scene voiced+quizzed in script",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "quiz can never trap learner (sim all picks)",
+  "pass": true,
+  "detail": ""
+ }
+]

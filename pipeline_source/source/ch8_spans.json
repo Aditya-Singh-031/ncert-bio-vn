@@ -1,0 +1,16 @@
+{"snapshot":{"book":"NCERT Biology Class XI (Reprint 2026-27)","chapter":"8 Cell: The Unit of Life","url":"https://ncert.nic.in/textbook/pdf/kebo108.pdf","note":"Demo spans keyed from fetched text; production uses Docling+PyMuPDF with checksum"},
+"spans":[
+{"id":"sp_087_01","page":87,"text":"cell is the fundamental structural and functional unit of all living organisms"},
+{"id":"sp_088_01","page":88,"text":"In 1838, Matthias Schleiden, a German botanist, examined a large number of plants and observed that all plants are composed of different kinds of cells"},
+{"id":"sp_088_02","page":88,"text":"Schwann (1839), a German Zoologist, studied different types of animal cells"},
+{"id":"sp_088_03","page":88,"text":"Rudolf Virchow (1855) first explained that cells divided and new cells are formed from pre-existing cells"},
+{"id":"sp_088_04","page":88,"text":"all living organisms are composed of cells and products of cells."},
+{"id":"sp_088_05","page":88,"text":"all cells arise from pre-existing cells."},
+{"id":"sp_088_06","page":88,"text":"Cells that have membrane bound nuclei are called eukaryotic whereas cells that lack a membrane bound nucleus are prokaryotic."},
+{"id":"sp_088_07","page":88,"text":"The prokaryotic cells lack such membrane bound organelles."},
+{"id":"sp_088_08","page":88,"text":"Ribosomes are non-membrane bound organelles found in all cells"},
+{"id":"sp_090_01","page":90,"text":"There is no well-defined nucleus. The genetic material is basically naked, not enveloped by a nuclear membrane."},
+{"id":"sp_090_02","page":90,"text":"many bacteria have small circular DNA outside the genomic DNA. These smaller DNA are called plasmids."},
+{"id":"sp_091_01","page":91,"text":"In eukaryotic cells there is an extensive compartmentalisation of cytoplasm through the presence of membrane bound organelles."},
+{"id":"sp_091_02","page":91,"text":"Plant and animal cells are different as the former possess cell walls, plastids and a large central vacuole which are absent in animal cells."}
+]}
