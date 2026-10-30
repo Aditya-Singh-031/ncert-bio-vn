@@ -1,0 +1,4 @@
+.env
+assets/video/raw/
+build/
+__pycache__/
